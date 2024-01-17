@@ -1,0 +1,26 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    outline: none;
+    list-style-type: none;
+    margin: 20px;
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+
+}
+
+div {
+    display: block;
+    margin-bottom: 175px;
+}
+
+a {
+    display: block;
+    font-style: oblique;
+    margin-left: -25px;
+}
+
